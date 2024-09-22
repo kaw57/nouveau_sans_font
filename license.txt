@@ -1,5 +1,4 @@
-﻿Copyright (c) 2024,  Katherine Awesome
-(https://fontstruct.com/fontstructors/2499129/kaw57)
+﻿Copyright 2024 The Sans Nouveau family [Project Authors](https://github.com/kaw57/sans_nouveau_font/blob/main/AUTHORS.txt)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
